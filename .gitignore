@@ -1,0 +1,12 @@
+docker
+docker-compose.yml
+Dockerfile
+node_modules
+vendor
+.env
+.phpunit.result.cache
+data.sql
+db
+gulpfile.js
+sqlite
+assets

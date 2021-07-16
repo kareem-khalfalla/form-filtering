@@ -1,0 +1,34 @@
+{
+  "name": "advanced-search-form",
+  "version": "1.0.0",
+  "description": "Exercise files for the Advanced Search From with PHP course",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "foundation-sites": "^6.6.3",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "ssd-select": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "php",
+    "search",
+    "form"
+  ],
+  "author": "Kareem Khalfalla <kareem.khalfalla.dev@gmail.com>",
+  "license": "MIT",
+  "homepage": ""
+}
